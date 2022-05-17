@@ -1,5 +1,7 @@
 # Natural disasters through quotes
 
+Project for Applied Data Analysis.
+
 ## Data story
 [Link to the data story](https://omidou.github.io/Natural-disasters-through-quotes/)
 
